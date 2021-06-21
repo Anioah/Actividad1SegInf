@@ -14,6 +14,10 @@ class Test2 extends Migration
     public function up()
     {
         // AQUI DEBERIA HACER ALGO 
+        // PERO NO
+        // LO HAGO
+        // PORQUE NO
+        // QUIERO
     }
 
     /**
