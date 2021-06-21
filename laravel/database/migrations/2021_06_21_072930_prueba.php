@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class Test2 extends Migration
+class Prueba extends Migration
 {
     /**
      * Run the migrations.
@@ -13,11 +13,7 @@ class Test2 extends Migration
      */
     public function up()
     {
-        // AQUI DEBERIA HACER ALGO 
-        // PERO NO
-        // LO HAGO
-        // PORQUE NO
-        // QUIERO
+        //
     }
 
     /**
