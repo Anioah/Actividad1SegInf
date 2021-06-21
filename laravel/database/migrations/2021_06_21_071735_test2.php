@@ -13,7 +13,7 @@ class Test2 extends Migration
      */
     public function up()
     {
-        //
+        // AQUI DEBERIA HACER ALGO 
     }
 
     /**
